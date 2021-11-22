@@ -1,4 +1,4 @@
-# Project_9
+# Project-9
 Contains source files and code for the project 7 of the Data Analyst training course at OpenClassrooms.
 
 P9_01_code.ipynb ==> main code, gather all steps to complete the project <br>
