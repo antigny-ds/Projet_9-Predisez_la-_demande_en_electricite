@@ -1,4 +1,4 @@
-# Projet_9-Predisez_la-_demande_en_electricite
+# Projet_9
 Contains source files and code for the project 7 of the Data Analyst training course at OpenClassrooms.
 
 P9_01_code.ipynb ==> main code, gather all steps to complete the project <br>
